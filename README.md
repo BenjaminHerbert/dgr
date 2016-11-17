@@ -317,7 +317,7 @@ Templater provides functions to manipulate data inside the template. Here is the
 | orDefs    | orDefs               | if first array param is empty use second element to fill it |
 | ifOrDef   | ifOrDef              | if first param is not nil, use second, else third           |
 | add       | add                  | add 2 numbers                                               |
-| mul       | mul                  | mutiply 2 numbers                                           |
+| mul       | mul                  | multiply 2 numbers                                           |
 | div       | div                  | divide 2 numbers                                            |
 | sub       | sub                  | substract 2 numbers                                         |
 | mod       | mod                  | modulo of 2 numbers                                         |
